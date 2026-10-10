@@ -1,5 +1,7 @@
 # ☁️ Ajantik Cloud — Bulut Modu
 
+Repo: https://github.com/baran1248/ajantik-cloud
+
 Ajantik Telegram botunun **kısıtlı bulut kopyasıdır**. Laptop kapalıyken
 bot yazılı sorulara yine cevap verir (dosya/uygulama işleri hariç).
 
